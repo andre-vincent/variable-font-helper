@@ -1,6 +1,6 @@
-# Variable fonts helper
+# Aide pour polices variables
 
-### Self host variable fonts from Google Fonts
+### Héberger localement les polices variables de Google Fonts
 
 ![Screenshot of the variable font helper web app](screenshot.png)
 
